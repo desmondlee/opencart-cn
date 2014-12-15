@@ -1,45 +1,45 @@
 <?php
 // Heading
-$_['heading_title']          = 'Categories';
+$_['heading_title']          = '商品分类';
 
 // Text
-$_['text_success']           = 'Success: You have modified categories!';
-$_['text_list']              = 'Category List';
-$_['text_add']               = 'Add Category';
-$_['text_edit']              = 'Edit Category';
-$_['text_default']           = 'Default';
+$_['text_success']           = '成功： 您已修改商品分类！';
+$_['text_list']              = '分类列表';
+$_['text_add']               = '添加分类';
+$_['text_edit']              = '编辑分类';
+$_['text_default']           = '默认';
 
 // Column
-$_['column_name']            = 'Category Name';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = '分类名称';
+$_['column_sort_order']      = '排序';
+$_['column_action']          = '操作';
 
 // Entry
-$_['entry_name']             = 'Category Name';
-$_['entry_description']      = 'Description';
-$_['entry_meta_title'] 	     = 'Meta Tag Title';
-$_['entry_meta_keyword'] 	 = 'Meta Tag Keywords';
-$_['entry_meta_description'] = 'Meta Tag Description';
-$_['entry_keyword']          = 'SEO Keyword';
-$_['entry_parent']           = 'Parent';
-$_['entry_filter']           = 'Filters';
-$_['entry_store']            = 'Stores';
-$_['entry_image']            = 'Image';
-$_['entry_top']              = 'Top';
-$_['entry_column']           = 'Columns';
-$_['entry_sort_order']       = 'Sort Order';
-$_['entry_status']           = 'Status';
-$_['entry_layout']           = 'Layout Override';
+$_['entry_name']             = '分类名称';
+$_['entry_description']      = '描述';
+$_['entry_meta_title'] 	     = 'Meta标签 标题';
+$_['entry_meta_keyword'] 	 = 'Meta标签 关键词';
+$_['entry_meta_description'] = 'Meta标签 描述';
+$_['entry_keyword']          = 'SEO 关键词';
+$_['entry_parent']           = '级别';
+$_['entry_filter']           = '筛选';
+$_['entry_store']            = '网店';
+$_['entry_image']            = '图片';
+$_['entry_top']              = '横排显示';
+$_['entry_column']           = '列排显示';
+$_['entry_sort_order']       = '排序';
+$_['entry_status']           = '状态';
+$_['entry_layout']           = '布局覆盖';
 
 // Help
-$_['help_filter']            = '(Autocomplete)';
-$_['help_keyword']           = 'Do not use spaces, instead replace spaces with - and make sure the keyword is globally unique.';
-$_['help_top']               = 'Display in the top menu bar. Only works for the top parent categories.';
-$_['help_column']            = 'Number of columns to use for the bottom 3 categories. Only works for the top parent categories.';
+$_['help_filter']            = '(自动完成)';
+$_['help_keyword']           = '禁用空格，用符号 - 代替；确保关键词不重复';
+$_['help_top']               = '在顶部菜单栏显示；只能为顶级分类起作用。';
+$_['help_column']            = '底部3个分类的列数。只能为顶级分类起作用。';
 
 // Error
-$_['error_warning']          = 'Warning: Please check the form carefully for errors!';
-$_['error_permission']       = 'Warning: You do not have permission to modify categories!';
-$_['error_name']             = 'Category Name must be between 2 and 32 characters!';
-$_['error_meta_title']       = 'Meta Title must be greater than 3 and less than 255 characters!';
-$_['error_keyword']          = 'SEO keyword already in use!';
+$_['error_warning']          = '警告: 请仔细检查表单中的错误！';
+$_['error_permission']       = '警告: 您没权限编辑分类！';
+$_['error_name']             = '分类名称必须在2到32个字符之间！';
+$_['error_meta_title']       = 'Meta 标题长度必须在4到255个字符之间!';
+$_['error_keyword']          = 'SEO 关键词已经被使用！';

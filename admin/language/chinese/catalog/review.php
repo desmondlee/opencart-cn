@@ -1,35 +1,35 @@
 <?php
 // Heading
-$_['heading_title']     = 'Reviews';
+$_['heading_title']     = '商品评论';
 
 // Text
-$_['text_success']      = 'Success: You have modified reviews!';
-$_['text_list']         = 'Review List';
-$_['text_add']          = 'Add Review';
-$_['text_edit']         = 'Edit Review';
+$_['text_success']      = '成功： 您已成功更新评论！';
+$_['text_list']         = '评论列表';
+$_['text_add']          = '添加评论';
+$_['text_edit']         = '编辑评论';
 
 // Column
-$_['column_product']    = 'Product';
-$_['column_author']     = 'Author';
-$_['column_rating']     = 'Rating';
-$_['column_status']     = 'Status';
-$_['column_date_added'] = 'Date Added';
-$_['column_action']     = 'Action';
+$_['column_product']    = '商品名称';
+$_['column_author']     = '评论作者';
+$_['column_rating']     = '商品评级';
+$_['column_status']     = '评论状态';
+$_['column_date_added'] = '日期';
+$_['column_action']     = '操作';
 
 // Entry
-$_['entry_product']     = 'Product';
-$_['entry_author']      = 'Author';
-$_['entry_rating']      = 'Rating';
-$_['entry_status']      = 'Status';
-$_['entry_text']        = 'Text';
-$_['entry_date_added']  = 'Date Added';
+$_['entry_product']     = '商品分类';
+$_['entry_author']      = '评论作者';
+$_['entry_rating']      = '商品评级';
+$_['entry_status']      = '评论状态';
+$_['entry_text']        = '评论内容';
+$_['entry_date_added']  = '日期';
 
 // Help
-$_['help_product']      = '(Autocomplete)';
+$_['help_product']      = '(自动完成)';
 
 // Error
-$_['error_permission']  = 'Warning: You do not have permission to modify reviews!';
-$_['error_product']     = 'Product required!';
-$_['error_author']      = 'Author must be between 3 and 64 characters!';
-$_['error_text']        = 'Review Text must be at least 1 character!';
-$_['error_rating']      = 'Review rating required!';
+$_['error_permission']  = '警告： 您没有权限更改评论！';
+$_['error_product']     = '您必须输入商品名称！';
+$_['error_author']      = '评论者名称必须在3至64个字符之间！';
+$_['error_text']        = '评论内容必须在大于1个字符！';
+$_['error_rating']      = '您必须选择评级！';
