@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']          = 'Attributes';
+$_['heading_title']          = '属性';
 
 // Text
-$_['text_success']           = 'Success: You have modified attributes!';
-$_['text_list']              = 'Attribute List';
-$_['text_add']               = 'Add Attribute';
-$_['text_edit']              = 'Edit Attribute';
+$_['text_success']           = '成功：您已经修改了属性！';
+$_['text_list']              = '属性列表';
+$_['text_add']               = '添加属性';
+$_['text_edit']              = '编辑属性';
 
 // Column
-$_['column_name']            = 'Attribute Name';
-$_['column_attribute_group'] = 'Attribute Group';
-$_['column_sort_order']      = 'Sort Order';
-$_['column_action']          = 'Action';
+$_['column_name']            = '属性名称';
+$_['column_attribute_group'] = '属性组';
+$_['column_sort_order']      = '排序';
+$_['column_action']          = '操作';
 
 // Entry
-$_['entry_name']            = 'Attribute Name';
-$_['entry_attribute_group'] = 'Attribute Group';
-$_['entry_sort_order']      = 'Sort Order';
+$_['entry_name']            = '属性名称';
+$_['entry_attribute_group'] = '属性组';
+$_['entry_sort_order']      = '排序';
 
 // Error
-$_['error_permission']      = 'Warning: You do not have permission to modify attributes!';
-$_['error_name']            = 'Attribute Name must be between 3 and 64 characters!';
-$_['error_product']         = 'Warning: This attribute cannot be deleted as it is currently assigned to %s products!';
+$_['error_permission']      = '警告：您没有权限修改属性！';
+$_['error_name']            = '属性名称必须为3到64个字符！';
+$_['error_product']         = '警告：该属性不能被删除，因为它是目前已经分配给%s 产品！';
